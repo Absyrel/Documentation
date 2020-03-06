@@ -17,10 +17,10 @@ Front-End (Mobile):
   - Accès à la liste des émargements effectuées
   - Créer un nouvel émargement
 
-- Choix d&#39;un groupe via une liste déroulante
-- Affichage des élèves du groupe sous forme de liste (avec photo)
-- Renseigner les absences et retards des élèves (par défaut tous les élèves sont notés présents)
-- Valider la liste
+  - Choix d&#39;un groupe via une liste déroulante
+    - Affichage des élèves du groupe sous forme de liste (avec photo)
+    - Renseigner les absences et retards des élèves (par défaut tous les élèves sont notés présents)
+    - Valider la liste
 
 Front-End (Application web) : cette application est utilisée seulement par le gestionnaire
 
