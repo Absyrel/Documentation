@@ -9,9 +9,9 @@ Front-End (Mobile):
 - Choix du serveur à l&#39;installation de l&#39;application
 - Se connecter en tant qu&#39;étudiant
 
-- Liste de toute ses absences (à justifier, validée ou refusée)
-- Accès aux absences à justifier ou refusées
-  - Accède à l&#39;absence où il peut justifier en envoyant un fichier (photo) et choisir le type de justificatif (transport, famille, malade, autre)
+  - Liste de toute ses absences (à justifier, validée ou refusée)
+  - Accès aux absences à justifier ou refusées
+    - Accède à l&#39;absence où il peut justifier en envoyant un fichier (photo) et choisir le type de justificatif (transport, famille, malade, autre)
 
 - Se connecter en tant que professeur
   - Accès à la liste des émargements effectuées
