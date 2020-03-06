@@ -29,8 +29,8 @@ Front-End (Application web) : cette application est utilisée seulement par le g
   - CRUD utilisateur (professeur, étudiant)
 
 - Accéder à la liste des émargements pour un groupe
-- Accéder à un élève et visualiser ses absences et justificatif
-- Valider ou Refuser un justificatif
+  - Accéder à un élève et visualiser ses absences et justificatif
+  - Valider ou Refuser un justificatif
 
 
 
